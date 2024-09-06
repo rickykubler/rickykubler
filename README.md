@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Riccardo, and I'm a Music and Acoustic Engineer intrerested in Data Analysis and Machine Learning
+
 - 🔭 I’m currently working on master's thesis on Adversarial Attacks for Acoustic Scene Classification
 - 🌱 I’m currently learning pythorch, deep learning, data analysis
 

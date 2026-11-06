@@ -1,21 +1,27 @@
-## Hi there 👋
+## Hi, I'm Riccardo 👋
 
-My name is Riccardo, and I'm a Music and Acoustic Engineer intrerested in Data Analysis and Machine Learning
+RPA & AI developer based near Milan. MSc in Music and Acoustic Engineering and BSc in
+Mathematical Engineering at Politecnico di Milano.
 
-- 🔭 I’m currently working on master's thesis on Adversarial Attacks for Acoustic Scene Classification
-- 🌱 I’m currently learning pythorch, deep learning, data analysis
+I build practical AI systems: retrieval-augmented generation, local LLMs, evaluation and
+process automation.
 
-<!--
-**rickykubler/rickykubler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured project
 
-Here are some ideas to get you started:
+**[fonti](https://github.com/rickykubler/fonti)** — local-first RAG for Italian documents with
+verifiable citations. Hybrid search (BM25 + embeddings), cross-encoder reranking, answers from a
+local LLM, every cited passage checked verbatim against the source, and a golden-set evaluation
+behind every default. **[Try the online demo](https://huggingface.co/spaces/rickykubler/fonti)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+
+- MSc thesis: adversarial attacks on acoustic scene classification models (PyTorch, TensorFlow)
+- Google Data Analytics Professional Certificate
+
+### Always learning
+
+AI changes every week, so I study it every day: papers, new models and tools, and small
+hands-on projects to test what I read.
+
+**Stack:** Python · PyTorch · sentence-transformers · FastAPI · SQLite · Ollama · SQL ·
+Git & GitHub Actions

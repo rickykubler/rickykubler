@@ -1,7 +1,7 @@
 ## Hi, I'm Riccardo 👋
 
-RPA & AI developer based near Milan. MSc in Music and Acoustic Engineering and BSc in
-Mathematical Engineering at Politecnico di Milano.
+RPA & AI developer based near Milan. MSc student in Music and Acoustic Engineering at
+Politecnico di Milano, where I earned a BSc in Mathematical Engineering.
 
 I build practical AI systems: retrieval-augmented generation, local LLMs, evaluation and
 process automation.
@@ -15,13 +15,12 @@ behind every default. **[Try the online demo](https://huggingface.co/spaces/rick
 
 ### Background
 
-- MSc thesis: adversarial attacks on acoustic scene classification models (PyTorch, TensorFlow)
-- Google Data Analytics Professional Certificate
+- MSc thesis (in progress): adversarial attacks on acoustic scene classification models
+  (PyTorch, TensorFlow)
 
 ### Always learning
 
 AI changes every week, so I study it every day: papers, new models and tools, and small
 hands-on projects to test what I read.
 
-**Stack:** Python · PyTorch · sentence-transformers · FastAPI · SQLite · Ollama · SQL ·
-Git & GitHub Actions
+**Stack:** Python · PyTorch · sentence-transformers · Ollama · SQL · UiPath
